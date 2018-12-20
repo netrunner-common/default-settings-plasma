@@ -236,6 +236,7 @@
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>kde4-kmix.desktop</Filename>
    <Filename>mpv.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
@@ -249,7 +250,6 @@
    <Filename>pavucontrol.desktop</Filename>
    <Filename>radiotray.desktop</Filename>
    <Filename>vlc.desktop</Filename>
-   <Filename>vokoscreen.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
@@ -310,6 +310,7 @@
    <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>virtualbox.desktop</Filename>
@@ -333,6 +334,7 @@
    <Menuname>More</Menuname>
    <Filename>org.kde.spectacle.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
    <Menuname>XUtilities</Menuname>
   </Layout>
  </Menu>
