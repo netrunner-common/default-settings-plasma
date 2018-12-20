@@ -314,7 +314,6 @@
    <Filename>vokoscreen.desktop</Filename>
   </Include>
   <Exclude>
-   <Filename>virtualbox.desktop</Filename>
    <Filename>kde4-importwizard.desktop</Filename>
    <Filename>debian-uxterm.desktop</Filename>
    <Filename>debian-xterm.desktop</Filename>
@@ -356,7 +355,6 @@
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
-   <Filename>virtualbox.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
    <Filename>synaptic.desktop</Filename>
   </Include>
@@ -377,7 +375,6 @@
    <Menuname>ScreenSavers</Menuname>
    <Menuname>Terminal</Menuname>
    <Filename>mintupdate-kde.desktop</Filename>
-   <Filename>virtualbox.desktop</Filename>
    <Filename>ndisgtk-kde.desktop</Filename>
    <Filename>org.kde.yakuake.desktop</Filename>
    <Separator/>
