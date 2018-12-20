@@ -208,6 +208,7 @@
    <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
    <Filename>org.kde.contactthemeeditor.desktop</Filename>
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>x11vnc.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-marble.desktop</Filename>
@@ -465,7 +466,11 @@
    <Filename>org.gnome.DiskUtility.desktop</Filename>
    <Filename>software-properties-gtk.desktop</Filename>
    <Filename>systemsettings.desktop</Filename>
+   <Filename>x11vnc.desktop</Filename>
   </Layout>
+  <Include>
+   <Filename>x11vnc.desktop</Filename>
+  </Include>
  </Menu>
  <Layout>
   <Merge type="menus"/>
