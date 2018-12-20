@@ -309,6 +309,7 @@
    <Filename>kde4-krdc.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.okular.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>virtualbox.desktop</Filename>
@@ -331,6 +332,7 @@
    <Merge type="menus"/>
    <Menuname>More</Menuname>
    <Filename>org.kde.spectacle.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
    <Menuname>XUtilities</Menuname>
   </Layout>
  </Menu>
@@ -346,13 +348,13 @@
    <Filename>system-config-printer.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.isoimagewriter.desktop</Filename>
-   <Filename>synaptic.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>mintupdate-kde.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>gnome-disks.desktop</Filename>
-   <Filename>synaptic-kde.desktop</Filename>
+   <Filename>synaptic.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="files"/>
