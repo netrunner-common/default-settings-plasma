@@ -7,6 +7,7 @@ Standards-Version: 3.7.2
 
 Package: default-settings-plasma
 Architecture: all
+Multi-Arch: foreign
 Replaces: netrunner-default-settings (<< 1.6.1), netrunner-settings-themeing (<< 1.0+p20170622)
 Breaks: netrunner-default-settings (<< 1.6.1), netrunner-settings-themeing (<< 1.0+p20170622)
 Description: Settings for Plasma Desktop
